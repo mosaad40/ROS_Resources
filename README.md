@@ -2,6 +2,11 @@
 Welcome to the ROS Resources repository! 🚀 Here, you'll find a collection of valuable resources to help you learn, develop, and excel in the fascinating world of Robot Operating System (ROS).
 
 ---
+### Complete Projects :
+| [LINDO-The-Home-Assistant-Robot](https://github.com/MohamedAbdoLOS/LINDO-The-Home-Assistant-Robot)    
+| [linorobot - Mobile Robot](https://github.com/mosaad40/linorobot)   
+| [Autonomous Mobile Robot](https://www.youtube.com/playlist?list=PLKTqAF9SFsHRdpXT6i7-LbktToC6afgS8)   
+
 ### PlayLists For ROS :
 | PlayList        | Topic           |
 | :-----------: |:-------------:|
