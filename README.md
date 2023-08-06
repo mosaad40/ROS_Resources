@@ -2,6 +2,14 @@
 Welcome to the ROS Resources repository! 🚀 Here, you'll find a collection of valuable resources to help you learn, develop, and excel in the fascinating world of Robot Operating System (ROS).
 
 ---
+| Course        |
+| :-----------: |
+| [Linux](https://www.youtube.com/playlist?list=PLWXRxAK4bUzc9gq-W2xWDe9zEaDcowLfs)     |
+| [Git and GitHub](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=68s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData)   |
+| [Python - The Basics - Part 1 ](https://youtu.be/XKQaCF_Om8o)     |
+| [Python - The Basics - Part 2](https://youtu.be/mlbe7Vxr7yA)     |
+| [ROS Sessions - Dr. Haitham](https://drive.google.com/drive/folders/1yrtB9cZvXODis3Tn5ObtLwIJ2nWz2o6Q)     |
+
 ### Complete Projects :
 | [LINDO-The-Home-Assistant-Robot](https://github.com/MohamedAbdoLOS/LINDO-The-Home-Assistant-Robot)    
 | [linorobot - Mobile Robot](https://github.com/mosaad40/linorobot)   
